@@ -2,34 +2,35 @@
 
 
 
-# [Project Name] 🎯
+# [eye lashes counter] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [moreli sisters]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [gowthami s nair] - [Adi sankara institute of technology]
+-
+- Member 2: [krishna priya M] - [adi sankara institute of technology]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[eyelash counter is a fun and intensionally useless software project designed to count the number of eyelashes on a persons eye]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[The main purpose of this project is not to solve an important real-world problem,but to demonstrate how a basic software system can be created around an unnecessarily specific task]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[it is not necessary to count the lashes,so this is a uselesss project]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [python]
+- [python+opencv]
+- [opencv+numpy+pillow+tkinter]
+- [python,opencv and github]
 
 For Hardware:
 - [List main components]
@@ -82,7 +83,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+(https://drive.google.com/file/d/1yonIrK3hoEGNN658tL6IDoHVjcQivQ5G/view?usp=sharing)
 *Explain what the video demonstrates*
 
 # Additional Demos
